@@ -1,0 +1,14 @@
+[
+    {
+        "id": "col-101",
+        "name": "AMU",
+        "location": "Utar Pradesh",
+        "rating": 5.0
+    },
+    {
+        "id": "col-102",
+        "name": "CUSAT",
+        "location": "provo",
+        "rating": 4.5
+    }
+]
